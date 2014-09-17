@@ -1,0 +1,41 @@
+commit 1401359803ed2d8be0bb83f9dad4f4d334630760
+Author: Michael Harvey <wharvey@mymail.mines.edu>
+Date:   Tue Sep 16 17:56:09 2014 -0600
+
+    Changed 'meow' text
+
+commit d357a4ba746bed700dfc7aa44b732f7272d1f340
+Author: BrianChalifour <bchalifo@mymail.mines.edu>
+Date:   Tue Sep 16 17:53:49 2014 -0600
+
+    The y dimension for the eye has been changed.
+
+commit ba5fbc7dfc8f7f3f17b92b3ab2cff7af24d946b5
+Author: Michael Harvey <wharvey@mymail.mines.edu>
+Date:   Tue Sep 16 17:52:23 2014 -0600
+
+    made head bigger
+
+commit dc630b456fde9ec70101e76809ddba3ef735d50d
+Author: BrianChalifour <bchalifo@mymail.mines.edu>
+Date:   Tue Sep 16 17:50:01 2014 -0600
+
+    Changed some color to yellow, enjoy.
+
+commit 65caf092e895c942aefdb5fac467c993730bbf30
+Author: Michael Harvey <wharvey@mymail.mines.edu>
+Date:   Tue Sep 16 17:47:57 2014 -0600
+
+    made head red
+
+commit 68df77fbdb09a6ea2242f52b253e284edd42799b
+Author: BrianChalifour <bchalifo@mymail.mines.edu>
+Date:   Tue Sep 16 17:43:59 2014 -0600
+
+    Reduced eye width by half
+
+commit 923b913e3007e09c3c2211a3ee11e3a433b5bff8
+Author: Michael Harvey <wharvey@mymail.mines.edu>
+Date:   Thu Sep 11 12:13:08 2014 -0600
+
+    Initial commit; added .gitignore
